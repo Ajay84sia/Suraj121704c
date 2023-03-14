@@ -39,8 +39,8 @@ An aspiring Full Stack Developer from India. <br> <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj121704c&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+  
 
 <!--
 ## 🏆 GitHub Trophies
